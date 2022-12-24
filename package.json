@@ -1,0 +1,21 @@
+{
+  "name": "the-one-theme",
+  "displayName": "The One Theme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "The One Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/The One Theme-color-theme.json"
+      }
+    ]
+  }
+}
