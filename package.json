@@ -1,13 +1,26 @@
 {
   "name": "the-one-theme",
   "displayName": "The One Theme",
-  "description": "",
+  "description": "This is the very first version of a theme inspired by high fantasy works in literature, games and so on, enjoy!",
   "version": "0.0.1",
+  "publisher": "Ancairon",
   "engines": {
     "vscode": "^1.74.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ancairon/the-one-theme"
+  },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "old",
+    "fantasy",
+    "medieval",
+    "high fantasy"
   ],
   "contributes": {
     "themes": [
