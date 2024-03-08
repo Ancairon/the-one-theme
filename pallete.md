@@ -18,15 +18,15 @@ light
 #f6ca7d
 
 world
-#d77f3d
-#d73d3d
-#d7bc3d
-#8fb244
-#258080
-#59cecf
-#808ec3
-#855eb0
-#416AB6
+orange #d77f3d
+red #d73d3d
+gold #d7bc3d
+green #8fb244
+cyan #258080
+light cyan #59cecf
+lavender #808ec3
+purple #855eb0
+blue purple #416AB6
 
 eye
 #e21e26
