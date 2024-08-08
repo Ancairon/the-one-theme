@@ -3,7 +3,7 @@
   "displayName": "The One Theme",
   "description": "This is the very first version of a theme inspired by high fantasy works in literature, games and so on, enjoy!",
   "icon": "icon.png",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "publisher": "Ancairon",
   "engines": {
     "vscode": "^1.74.0"
@@ -26,9 +26,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "The One Theme",
+        "label": "The One Theme Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/The One Theme-color-theme.json"
+        "path": "./themes/the-one-theme-dark.json"
+      },
+      {
+        "label": "The One Theme Light",
+        "uiTheme": "vs",
+        "path": "./themes/the-one-theme-light.json"
       }
     ]
   }
