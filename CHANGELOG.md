@@ -2,8 +2,8 @@
 
 All notable changes to the "the-one-theme" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## [v0.0.6]
 
-## [Unreleased]
+This is a release where a light theme is added, as a testing for automatic vscode theme changing.
 
-- Initial release
+More to come!

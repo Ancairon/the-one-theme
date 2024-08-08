@@ -145,8 +145,8 @@
                 "fontStyle": "bold"
             }
         },
-        // YAML
 
+        // YAML
         {
             "name": "Separators",
             "scope": "punctuation.separator.key-value.mapping.yaml",
@@ -242,6 +242,7 @@
                 "fontStyle": "italic"
             }
         },
+
         // Python
         {
             "name": "Python Comments",
@@ -322,6 +323,30 @@
                 "fontStyle": "italic bold"
             }
         },
+
+        // SQL
+        {
+            "name": "SQL control words",
+            "scope": "keyword.other.DML.sql",
+            "settings": {
+                // "foreground": "#FF0000",
+                // "fontStyle": "bold"
+                "fontStyle": "bold",
+                
+                
+            }
+        },
+
+
+
+
+
+
+
+
+
+
+
         // Other stuff, not yet curated
         {
             "name": "unison punctuation",

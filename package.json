@@ -26,9 +26,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "The One Theme",
+        "label": "The One Theme Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/The One Theme-color-theme.json"
+        "path": "./themes/the-one-theme-dark.json"
+      },
+      {
+        "label": "The One Theme Light",
+        "uiTheme": "vs",
+        "path": "./themes/the-one-theme-light.json"
       }
     ]
   }
