@@ -3,7 +3,7 @@
   "displayName": "The One Theme",
   "description": "This is the very first version of a theme inspired by high fantasy works in literature, games and so on, enjoy!",
   "icon": "icon.png",
-  "version": "0.0.7",
+  "version": "0.0.5",
   "publisher": "Ancairon",
   "engines": {
     "vscode": "^1.74.0"
